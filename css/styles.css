@@ -1,0 +1,120 @@
+body
+{
+	margin-top: 90px;
+	font-size: 17px;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-family: Poppins;
+}
+
+p
+{
+	font-family: Roboto;
+}
+
+/*Navbar*/
+
+.navbar-default
+{
+	border: 0;
+	font-family: Raleway;
+	background: #fff;
+}
+
+.navbar-brand
+{
+	margin-left: 100px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000 !important;
+}
+
+.navbar-nav
+{
+	margin-right: 100px;
+}
+
+.nav-item
+{
+	font-family: Josefins-sans;
+	font-size: 17px;
+}
+
+/*Showcase*/
+
+#showcase h1
+{
+	font-size: 50px;
+	margin-bottom: 20px;
+
+}
+
+#showcase img
+{
+	width: 90%;
+	margin-left: 20px;
+}
+
+#showcase .showcase-right
+{
+	margin-top: 80px;
+}
+
+/*Testimonoial*/
+
+#testimonial
+{
+	background: #f1f1f1;
+	padding: 50px 0 30px 0;
+	margin-top: 40px;	
+	text-align: center;	
+}
+
+#testimonial p
+{
+	font-size: 26px;
+	font-family: Josefins-sans;
+	color: #000;
+}
+
+#testimonial .customer
+{
+	font-size: 20px;
+	color: #666;
+}
+
+/*Information Section*/
+
+#info1 .info-right
+{
+	margin-top: 90px;
+}
+
+/*Information Section divided into two parts*/
+
+#info2 
+{
+	margin: 20px 0 60px 0;
+}
+
+/*Contacts*/
+
+#contacts
+{
+	background-image: url(../img/image3.png);
+	color: #f4f4f4;
+	padding: 40px;
+	border-top: 2px solid black;
+	border-top: 2px solid black;
+}
+
+/*Footer*/
+
+footer
+{
+	padding: 30px;
+	background-color: #282828;
+	color: #fff;
+}
